@@ -12,7 +12,7 @@ title                    : "Yang Xu / Academic Pages"
 title_separator          : "-"
 name                     : &name "Yang Xu"
 description              : &description "Academic Pages"
-url                      : "https://xycharm.github.io/"
+url                      : "https://xycharm.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Xycharm/Xycharm.github.io"
 
