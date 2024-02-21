@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   - title: "CV"
     url: "https://drive.google.com/file/d/1e5CaxmLWZFFED5vkRM54ZidkLir79zwT/view?usp=sharing"
