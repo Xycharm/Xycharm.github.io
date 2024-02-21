@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Yang Xu"
+  pronouns         : "he/him"
+  bio              : "Algebra is like sheet of music. The important thing isn’t can you read music, it’s can you hear it. Can you hear the music, Robert?— Niels Bohr to J. Robert Oppenheimer, Oppenheimer (2023)"
+  location         : "Hangzhou, Zhejiang Province, People's Republic of China"
+  employer         : "Zhejiang University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "insights365x@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
